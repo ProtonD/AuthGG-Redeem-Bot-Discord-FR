@@ -31,7 +31,7 @@ npm i redeem-authgg-bot-discord-fr
 # Install Redeem.js
 <br>
 
-[Github Redeem.js](https://github.com/ProtonD/AuthGG-Redeem-Bot-Discord)
+[Github Redeem.js](https://github.com/ProtonD/AuthGG-Redeem-Bot-Discord-FR/blob/main/Redeem.js)
 
 <br><br>
 
@@ -51,10 +51,30 @@ const API = ""; // API FREE  (Disponible dans les paramètres de ton application
 Ligne 287:
 
 client.login(""); //Token Bot Discord
+
+======
+
+node Redeem.js
 ```
 <br>
 <br>
 <br>
+
+# Role Premium
+<br>
+
+```
+Crée un role qui s'appel "Premium"
+A la ligne 143 changer "858079768439029791" par l'ID de votre role.
+(Aller dans les roles de votre serveur, faite clic droit sur votre role, puis copier l'id de votre role).
+
+========
+
+Si vous voulez un role avec un autre nom, changer "Premium" à la ligne 138 par ne nom exact du role que vous voulez.
+```
+<br>
+<br>
+
 <br>
 
 # Information
@@ -84,17 +104,25 @@ Si vous ajoutez cela sur votre bot, il sera ravi de le voir :D
 <p align="center">
   <a href="https://discord.gg/ism"><img src="https://discordapp.com/api/guilds/798602940779724861/widget.png?style=banner2" alt="Discord server"></a>
 </p>
+<br><br>
+
+# Crédit OldModz95#7213
 <br>
+
+```
+Ajout du system du role.
+```
 
 <br>
 <br>
 <br>
+
 ## Picture
 
 <br>
-<img src="https://i.imgur.com/zWyVQtI.png">
+<img src="https://i.imgur.com/rbA9boY.png">
 <br>
-<img src="https://i.imgur.com/YhiHw4F.png">
+<img src="https://i.imgur.com/tpChH4a.png">
 
 
 
